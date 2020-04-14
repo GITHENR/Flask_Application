@@ -29,5 +29,3 @@ def submit():
     else:
         return render_template('inputform.html')
 
-if __name__ == "__main__":
-    app.run()
